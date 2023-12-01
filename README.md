@@ -10,6 +10,5 @@
 <p>Hi im ky780cno👨‍💻</p>
 <h1>I am a programmer💻 </h1> 
 <h2>I like the programming language Python,html and JavaScript💼 </h2>
-<h2>please Support our team🧿</h2>
 </body>
 </html>
